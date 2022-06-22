@@ -1,0 +1,4 @@
+/root/springboot-demo-app/src/main/java/com/ps/demo/DemoApplication.java
+/root/springboot-demo-app/src/main/java/com/ps/demo/repositories/CustomerRepository.java
+/root/springboot-demo-app/src/main/java/com/ps/demo/controllers/CustomerController.java
+/root/springboot-demo-app/src/main/java/com/ps/demo/entities/Customer.java
